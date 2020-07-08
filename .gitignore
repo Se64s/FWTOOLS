@@ -1,0 +1,4 @@
+# Ignored folders
+
+# Tools python cache
+STM32BOOT/__pycache__
